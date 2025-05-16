@@ -1,0 +1,580 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "groups": [
+        {
+          "enabled": true,
+          "keyframes": [
+            {
+              "camera": {
+                "fx": 395070.46039492835,
+                "fy": 2972609.633785774,
+                "fz": -5.433699784025132e-18,
+                "x": 393549.80519702326,
+                "y": 2972667.1198313194,
+                "z": 1761.4124659738923
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 1",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 395070.46039492835,
+                "fy": 2972609.633785774,
+                "fz": -5.433699784025132e-18,
+                "x": 394479.45000555395,
+                "y": 2972548.8059889306,
+                "z": 1905.2384600152357
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 2",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 395070.46039492835,
+                "fy": 2972609.633785774,
+                "fz": -5.433699784025132e-18,
+                "x": 395070.4584172578,
+                "y": 2972609.6335172593,
+                "z": 1995.7271583897507
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 3",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 395544.0348145709,
+                "fy": 2972973.543717628,
+                "fz": 7.744160313228613e-15,
+                "x": 395428.6666070238,
+                "y": 2972696.0799435065,
+                "z": 1972.9751446675289
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 4",
+              "type": 128
+            },
+            {
+              "camera": {
+                "fx": 395450.7947973607,
+                "fy": 2973414.9676009864,
+                "fz": 7.65560737650675e-15,
+                "x": 395810.9366428582,
+                "y": 2973311.137292004,
+                "z": 1960.2152965417458
+              },
+              "delay": 0,
+              "duration": 2000,
+              "easing": 1,
+              "name": "keyframe 5",
+              "type": 128
+            }
+          ],
+          "name": "Group",
+          "type": 64
+        }
+      ]
+    },
+    "enabled": false,
+    "layers": {
+      "BLDG_7e3caff9_0df2_4116_888b_4fc3fc75c6cb": {
+        "enabled": true,
+        "groups": []
+      },
+      "BLDG_poly__dd2e0dd1_7735_40c9_b59a_373e4dfa4c6b": {
+        "enabled": true,
+        "groups": []
+      },
+      "BLD_poly_973ecc1d_dc2c_4f71_a473_d466e1f882f4": {
+        "enabled": true,
+        "groups": []
+      },
+      "BOUNDARY_0af09925_a1e2_49fc_b731_f3431343a3a8": {
+        "enabled": true,
+        "groups": []
+      },
+      "ElectricPoles_30201d52_871a_4d80_9130_7238a3831be8": {
+        "enabled": true,
+        "groups": []
+      },
+      "FENCE_e46afbc5_138e_41bd_8768_06caba4a78f6": {
+        "enabled": true,
+        "groups": []
+      },
+      "GALLRY_5908e23a_43c6_47a5_ba6f_0d024cb826e7": {
+        "enabled": true,
+        "groups": []
+      },
+      "GATE_66e6c555_9ce7_426c_a3e7_1339a9e47dc2": {
+        "enabled": true,
+        "groups": []
+      },
+      "JNEC_area_d7c8bd38_03d0_4b82_908c_7f09bc8e438c": {
+        "enabled": true,
+        "groups": []
+      },
+      "LPOST_a54b077d_562c_4e84_89c9_ba7edc474dbb": {
+        "enabled": true,
+        "groups": []
+      },
+      "PARK_de19eb21_2fd5_4e8a_8e03_9845aaa8b227": {
+        "enabled": true,
+        "groups": []
+      },
+      "Point_data_9fa1ac8b_b6b6_4c38_9401_73500961acf9": {
+        "enabled": true,
+        "groups": []
+      },
+      "SCPs_bf880f54_a17d_499f_9186_e36f46fde261": {
+        "enabled": true,
+        "groups": []
+      },
+      "SRTM_dem_a9aa0415_a75b_4a7f_8715_7661a14301e1": {
+        "enabled": true,
+        "groups": []
+      },
+      "SportsFacilities_1c50b74d_8c72_4218_afb3_b160e957237d": {
+        "enabled": true,
+        "groups": []
+      },
+      "TREEs_819c847c_e120_4932_81a3_f0e54b9fa231": {
+        "enabled": true,
+        "groups": []
+      },
+      "extrax_bldg_2da6be4d_fff5_46fb_818d_ea621684f6c6": {
+        "enabled": true,
+        "groups": []
+      },
+      "fp:d718c09d": {
+        "enabled": true,
+        "groups": []
+      },
+      "plugin:gsielevtile": {
+        "enabled": true,
+        "groups": []
+      },
+      "road2_9de33027_065f_41fe_9d75_ceae7259d7ad": {
+        "enabled": true,
+        "groups": []
+      },
+      "route_7fb1a08f_2f1f_46fb_ae03_1024af9cd59b": {
+        "enabled": true,
+        "groups": []
+      }
+    },
+    "repeat": false,
+    "startOnLoad": false
+  },
+  "LAYERS": [
+    {
+      "geomType": 1,
+      "layerId": "TREEs_819c847c_e120_4932_81a3_f0e54b9fa231",
+      "name": "JNEC — TREEs",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "SCPs_bf880f54_a17d_499f_9186_e36f46fde261",
+      "name": "JNEC — SCPs",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Point_data_9fa1ac8b_b6b6_4c38_9401_73500961acf9",
+      "name": "JNEC — Point_data",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "LPOST_a54b077d_562c_4e84_89c9_ba7edc474dbb",
+      "name": "JNEC — LPOST",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "GATE_66e6c555_9ce7_426c_a3e7_1339a9e47dc2",
+      "name": "JNEC — GATE",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "BLDG_poly__dd2e0dd1_7735_40c9_b59a_373e4dfa4c6b",
+      "name": "BLDG(poly)",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Label": false,
+        "checkBox_Outline": true,
+        "checkBox_Underline": false,
+        "checkBox_Visible": true,
+        "colorButton_BgColor": [
+          255,
+          255,
+          255,
+          176
+        ],
+        "colorButton_ConnColor": [
+          192,
+          192,
+          208,
+          255
+        ],
+        "colorButton_Label": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_OtlColor": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "comboBox_FontFamily": "sans-serif",
+        "comboBox_ObjectType": "Extruded",
+        "comboBox_altitudeMode": "SRTM_dem_a9aa0415_a75b_4a7f_8715_7661a14301e1",
+        "comboEdit_Color": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "comboEdit_Color2": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "None",
+          "type": 7
+        },
+        "comboEdit_FilePath": {},
+        "comboEdit_Opacity": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "comboEdit_altitude2": {},
+        "expression_Label": "\"CODE\"",
+        "fieldExpressionWidget_altitude": "0",
+        "geomWidget0": {
+          "comboData": null,
+          "comboText": "Expression",
+          "editText": "\"L_COL_NUM\"",
+          "type": 1
+        },
+        "geomWidget1": {},
+        "geomWidget2": {},
+        "geomWidget3": {},
+        "geomWidget4": {},
+        "groupBox_Background": true,
+        "groupBox_Conn": true,
+        "labelHeightWidget": {
+          "comboData": 1,
+          "comboText": "Relative",
+          "editText": "50",
+          "type": 6
+        },
+        "lineEdit_Name": "",
+        "mtlWidget0": {},
+        "mtlWidget1": {},
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true,
+        "slider_FontSize": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 1,
+      "layerId": "ElectricPoles_30201d52_871a_4d80_9130_7238a3831be8",
+      "name": "JNEC — ElectricPoles",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "route_7fb1a08f_2f1f_46fb_ae03_1024af9cd59b",
+      "name": "JNEC — route",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "GALLRY_5908e23a_43c6_47a5_ba6f_0d024cb826e7",
+      "name": "JNEC — GALLRY",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "FENCE_e46afbc5_138e_41bd_8768_06caba4a78f6",
+      "name": "JNEC — FENCE",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "BOUNDARY_0af09925_a1e2_49fc_b731_f3431343a3a8",
+      "name": "JNEC — BOUNDARY",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "SportsFacilities_1c50b74d_8c72_4218_afb3_b160e957237d",
+      "name": "JNEC — SportsFacilities",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": true,
+        "checkBox_ExportAttrs": false,
+        "checkBox_Label": false,
+        "checkBox_Outline": true,
+        "checkBox_Underline": false,
+        "checkBox_Visible": true,
+        "colorButton_BgColor": [
+          255,
+          255,
+          255,
+          176
+        ],
+        "colorButton_ConnColor": [
+          192,
+          192,
+          208,
+          255
+        ],
+        "colorButton_Label": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_OtlColor": [
+          255,
+          255,
+          255,
+          255
+        ],
+        "comboBox_FontFamily": "sans-serif",
+        "comboBox_ObjectType": "Polygon",
+        "comboBox_altitudeMode": null,
+        "comboEdit_Color": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 2
+        },
+        "comboEdit_Color2": {
+          "comboData": null,
+          "comboText": "None",
+          "editText": "",
+          "type": 7
+        },
+        "comboEdit_FilePath": {},
+        "comboEdit_Opacity": {
+          "comboData": 1,
+          "comboText": "Feature style",
+          "editText": "",
+          "type": 5
+        },
+        "comboEdit_altitude2": {},
+        "expression_Label": "\"fid\"",
+        "fieldExpressionWidget_altitude": "0",
+        "geomWidget0": {},
+        "geomWidget1": {},
+        "geomWidget2": {},
+        "geomWidget3": {},
+        "geomWidget4": {},
+        "groupBox_Background": true,
+        "groupBox_Conn": true,
+        "labelHeightWidget": {
+          "comboData": 1,
+          "comboText": "Relative",
+          "editText": "50",
+          "type": 6
+        },
+        "lineEdit_Name": "",
+        "mtlWidget0": {},
+        "mtlWidget1": {},
+        "radioButton_Expression": true,
+        "radioButton_IntersectingFeatures": true,
+        "slider_FontSize": 3
+      },
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "PARK_de19eb21_2fd5_4e8a_8e03_9845aaa8b227",
+      "name": "JNEC — PARK",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "road2_9de33027_065f_41fe_9d75_ceae7259d7ad",
+      "name": "road2",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "JNEC_area_d7c8bd38_03d0_4b82_908c_7f09bc8e438c",
+      "name": "JNEC-area",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "extrax_bldg_2da6be4d_fff5_46fb_818d_ea621684f6c6",
+      "name": "JNEC — extrax_bldg",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "BLDG_7e3caff9_0df2_4116_888b_4fc3fc75c6cb",
+      "name": "JNEC — BLDG",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 3,
+      "layerId": "BLD_poly_973ecc1d_dc2c_4f71_a473_d466e1f882f4",
+      "name": "JNEC — BLD_poly",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "SRTM_dem_a9aa0415_a75b_4a7f_8715_7661a14301e1",
+      "name": "SRTM_dem",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": true,
+        "checkBox_Tiles": true,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "JNEC_area_d7c8bd38_03d0_4b82_908c_7f09bc8e438c",
+        "horizontalSlider_DEMSize": 3,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "e6496c37",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "e6496c37",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 0,
+      "layerId": "plugin:gsielevtile",
+      "name": "GSI Elevation Tile",
+      "properties": {
+        "checkBox_Clickable": true,
+        "checkBox_Clip": false,
+        "checkBox_Frame": false,
+        "checkBox_Sides": false,
+        "checkBox_Tiles": false,
+        "checkBox_Visible": true,
+        "checkBox_Wireframe": false,
+        "colorButton_Edge": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "colorButton_Side": [
+          204,
+          187,
+          170,
+          255
+        ],
+        "colorButton_Wireframe": [
+          0,
+          0,
+          0,
+          255
+        ],
+        "comboBox_ClipLayer": "BLDG_poly__dd2e0dd1_7735_40c9_b59a_373e4dfa4c6b",
+        "horizontalSlider_DEMSize": 2,
+        "lineEdit_Bottom": "0",
+        "lineEdit_Name": "",
+        "materials": [
+          {
+            "id": "0bbc6e9b",
+            "name": "map (canvas)",
+            "properties": {},
+            "type": 0
+          }
+        ],
+        "mtlId": "0bbc6e9b",
+        "spinBox_Roughening": 1,
+        "spinBox_Size": 3
+      },
+      "visible": true
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:d718c09d",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "OPT": {
+    "localMode": true
+  },
+  "OutputFilename": "C:/Users/97517/Desktop/web map\\index.html",
+  "Template": "3DViewer.html",
+  "Title": "1 JNEC web map",
+  "Version": 20800,
+  "WIDGETS": {
+    "NorthArrow": {
+      "color": "0x666666",
+      "visible": true
+    }
+  }
+}
